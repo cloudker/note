@@ -66,3 +66,5 @@ BIF是内置函数，为了方便程序员快速编写脚本程序，Python提�
 	s.ispace()	所有字符都是空白符，为真返回True，否则返回False
 	s.isinstance(str) 判断s数据类型是否为字符串
 	type(s)		返回s的数据类型，也可以用来作为验证方法
+
+5/14/2016 6:38:08 PM @author: CloudKing

@@ -70,3 +70,4 @@ hash(obj) 返回 obj 的哈希值<br/>
 	print('|--- 感谢使用通讯录程序 ---|')
     
 
+5/14/2016 6:41:15 PM @author:CloudKing
